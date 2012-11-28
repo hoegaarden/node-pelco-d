@@ -1,0 +1,25 @@
+{
+  "name": "node-pelco-d",
+  "version": "0.0.1",
+  "description": "Implementation of the Pelco-D protocol for controlling PTZ-cameras",
+  "main": "lib/PelcoD",
+  "devDependencies": {
+    "nodeunit" : "*"
+  },
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": "",
+  "keywords": [
+    "pelco",
+    "pelco-d",
+    "serial",
+    "ptz",
+    "camera"
+  ],
+  "author": {
+    "name" : "Hannes Hörl",
+    "email" : "hannes.hoerl@snowreporter.com"
+  } ,
+  "license": "BSD"
+}
